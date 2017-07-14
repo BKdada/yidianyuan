@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.bjrde.cn/yun/app/dw.ipa</string>
+					<string>http://ci-video.gz.bcebos.com/OpenAPI/worderorder/忆电缘1.0.4.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.bjrdegroup.yidianyuan</string>
 				<key>bundle-version</key>
-				<string>1.0.3</string>
+				<string>1.0.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
